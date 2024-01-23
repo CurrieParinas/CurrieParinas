@@ -23,6 +23,6 @@
 ## Languages and Tools:
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,react,java,git,js,postgres,figma,react,sass,spring,unity,discord,eclipse,gitlab,py,visualstudio"> </a> </p>
 
-| <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=currieparinas&show_icons=true&locale=en&layout=compact&theme=nord" alt="currieparinas" /></p> | <br /><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=currieparinas&show_icons=true&locale=en&theme=nord" alt="currieparinas" /></p> |
+| <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=currieparinas&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="currieparinas" /></p> | <br /><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=currieparinas&show_icons=true&locale=en&theme=nord&hide_border=true" alt="currieparinas" /></p> |
 | ------------- | ------------- |
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=currieparinas" alt="currieparinas" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=currieparinas&theme=nord&hide_border=true" alt="currieparinas" /></p>
