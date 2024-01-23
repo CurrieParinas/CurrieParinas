@@ -1,3 +1,4 @@
+![CurrieBanner](CurrieBanner.png)
 <h1 align="center">Hi 👋, I'm Currie!</h1>
 <h3 align="center">An aspiring programmer focusing on front-end development</h3>
 
