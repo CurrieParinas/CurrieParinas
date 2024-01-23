@@ -1,4 +1,4 @@
-![image](https://github.com/CurrieParinas/CurrieParinas/assets/85160106/651a7758-9ad7-4bc0-a5e8-21b2a2bbdbd8)![CurrieBanner](CurrieBanner.png)
+![CurrieBanner](CurrieBanner.png)
 
 ## Academics
 
