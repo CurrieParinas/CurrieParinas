@@ -1,7 +1,7 @@
 ![CurrieBanner](CurrieBanner.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20enthusiast;2+%2B%20years%20of%20coding%20HTML, CSS, JavaScript;Created%20several%20fully%20functioning%20websites&font=Roboto&center=true&width=1000&height=45&color=fff53a&vCenter=true&pause=1000&size=40" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Aspiring+ReactJS+Web+Developer;UI%2FUX+Designer;Front-end+Engineer;Two+Years+of+Experience+in+ReactJS" alt="Typing SVG" /></a>
 
 ## Academics
 
